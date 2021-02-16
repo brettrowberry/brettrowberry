@@ -1,4 +1,3 @@
-Here are some ideas to get you started:
 - 👋 Hi, I’m @brettrowberry.
 - 👀 I’m interested in Clojure, PostgreSQL, AWS, NixOS, and Rust.
 - 🌱 I’m currently learning Clojure.
