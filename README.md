@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brettrowberry.
-- 👀 I’m interested in Clojure, PostgreSQL, AWS, NixOS, and Rust.
+- 👀 I’m interested in Clojure, PostgreSQL, AWS, NixOS, Idris, and Rust.
 - 🌱 I’m currently learning Clojure.
 - 👯 I’m looking to collaborate on Clojure.
 - 🤔 I’m looking for help with Clojure.
