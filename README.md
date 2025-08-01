@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brettrowberry.
 - 👀 I’m interested in Clojure, Datomic, PostgreSQL, AWS, Idris, Erlang, Swift, OCaml, and Rust.
+- ⭐ I'd love to develop apps for Apple platforms for myself and others.
 - 🌱 I’m currently learning Clojure.
 - 💬 Ask me about F#.
 - 📫 You can reach me here or on Twitter @brettrowberry.
